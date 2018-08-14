@@ -57,7 +57,7 @@ Follow the following instructions to install Miniconda and create a Python envir
 
 1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS, Linux: Open a terminal.
 1. Activate the environment. Windows: `activate CE7454_2018`, macOS, Linux: `source activate CE7454_2018`.
-1. Download the coding exercises by direct downloads from the next section or with GitHub with the command `git pull`. 
+1. Download the python notebooks by direct downloads from the next section or with GitHub with the command `git pull`. 
 1. Start Jupyter with `jupyter notebook`. The command opens a new tab in your web browser.
 1. Go to the exercise folder, for example `CE7454_2018/codes/lab01_python`.
 1. When your tutorial is completed, you can go back to the terminal command by shutting down the juypter kernels with `Control-C`. 
@@ -89,19 +89,19 @@ Follow the following instructions to install Miniconda and create a Python envir
 
 [Tutorial 1: Introduction to Python]
 
-[Tutorial 2: Introduction to Python]
+[Tutorial 2: Introduction to PyTorch]
 
-[Tutorial 3: Introduction to Python]
+[Tutorial 3: PyTorch Tensor 1]
 
-[Tutorial 4: Introduction to Python]
+[Tutorial 4: PyTorch Tensor 2]
 
-[Tutorial 1: Introduction to Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial01.ipynb
+[Tutorial 1: Introduction to Python]: codes/zip/lab01_python.zip
 
-[Tutorial 2: Introduction to Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial01.ipynb
+[Tutorial 2: Introduction to PyTorch]: codes/zip/lab02_pytorch.zip
 
-[Tutorial 3: Introduction to Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial01.ipynb
+[Tutorial 3: PyTorch Tensor 1]: codes/zip/lab03_pytorch_tensor1.zip
 
-[Tutorial 4: Introduction to Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial01.ipynb
+[Tutorial 4: PyTorch Tensor 2]: codes/zip/lab04_pytorch_tensor2.zip
 
 
 
