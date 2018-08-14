@@ -1,0 +1,8 @@
+*~
+.DS_Store
+codes/.DS_Store/
+codes/__pycache__/
+codes/.ipynb_checkpoints/
+codes/tmp/
+tmp/
+
