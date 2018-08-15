@@ -87,6 +87,8 @@ Follow the following instructions to install Miniconda and create a Python envir
 ## Python notebooks of the course
 <br>
 
+[Download datasets]
+
 [Tutorial 1: Introduction to Python]
 
 [Tutorial 2: Introduction to PyTorch]
@@ -94,6 +96,8 @@ Follow the following instructions to install Miniconda and create a Python envir
 [Tutorial 3: PyTorch Tensor 1]
 
 [Tutorial 4: PyTorch Tensor 2]
+
+[Download datasets]: codes/zip/data.zip
 
 [Tutorial 1: Introduction to Python]: codes/zip/lab01_python.zip
 
