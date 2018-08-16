@@ -25,7 +25,7 @@ Follow the following instructions to install Miniconda and create a Python envir
 
 1. Download the Python 3.6 installer for Windows, macOS, or Linux from <https://conda.io/miniconda.html> and install with default settings. Note for Windows: If you don't know if your operating system is 32-bit or 64-bit, then open Settings-System-About-System type to find out your xx-bit system.
    * Windows: Double-click on the `Miniconda3-latest-MacOSX-x86_64.exe` file. 
-   * macOS: Run `bash Miniconda3-latest-MacOSX-x86_64.sh` in your terminal.
+   * macOS: Run `bash Miniconda3-latest-MacOSX-x86_64.sh` in your terminal or `brew cask install miniconda` if you are using brew
    * Linux: Run `bash Miniconda3-latest-Linux-x86_64.sh` in your terminal.
 1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS, Linux: Open a terminal.
 1. Install git: `conda install git`.
