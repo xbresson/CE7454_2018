@@ -24,6 +24,7 @@ dependencies:
 
   # deep learning
   - pytorch=0.4.1
-  - torchvision
+  - pip:
+    - torchvision
   - tensorflow
   - keras
