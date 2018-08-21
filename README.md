@@ -87,6 +87,9 @@ Follow the following instructions to install Miniconda and create a Python envir
 ## Python notebooks of the course
 <br>
 
+Note: The datasets are too large for GitHub. You need to run the scripts in `CE7454_2018/codes/data` or from the zip file [Download datasets] to download the datasets.<br><br>
+
+
 [Download datasets]
 
 [Tutorial 1: Introduction to Python]
