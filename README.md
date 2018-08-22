@@ -97,9 +97,11 @@ Note: The datasets are too large for GitHub. You need to run the scripts in `CE7
 
 
 [Download datasets]
+
 [Download datasets]: codes/zip/data.zip
 
 [Tutorial 1: Introduction to Python]
+
 [Tutorial 1: Introduction to Python]: codes/zip/lab01_python.zip
 
 [Tutorial 2: Introduction to PyTorch]
