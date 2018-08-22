@@ -105,30 +105,39 @@ Note: The datasets are too large for GitHub. You need to run the scripts in `CE7
 [Tutorial 1: Introduction to Python]: codes/zip/lab01_python.zip
 
 [Tutorial 2: Introduction to PyTorch]
+
 [Tutorial 2: Introduction to PyTorch]: codes/zip/lab02_pytorch.zip
 
 [Tutorial 3: PyTorch Tensor 1]
+
 [Tutorial 3: PyTorch Tensor 1]: codes/zip/lab03_pytorch_tensor1.zip
 
 [Tutorial 4: PyTorch Tensor 2]
+
 [Tutorial 4: PyTorch Tensor 2]: codes/zip/lab04_pytorch_tensor2.zip
 
 [Tutorial 5: Linear Module]
+
 [Tutorial 5: Linear Module]: codes/zip/lab05_linear_module.zip
 
 [Tutorial 6: Softmax]
+
 [Tutorial 6: Softmax]: codes/zip/lab06_softmax.zip
 
 [Tutorial 7: Vanilla NN]
+
 [Tutorial 7: Vanilla NN]: codes/zip/lab07_vanilla_nn.zip
 
 [Tutorial 8: Train Vanilla NN]
+
 [Tutorial 8: Train Vanilla NN]: codes/zip/lab08_train_vanilla_nn.zip
 
 [Tutorial 9: Minibatch Training]
+
 [Tutorial 9: Minibatch Training]: codes/zip/lab09_minibatch_training.zip
 
 [Tutorial 10: Cross Entropy]
+
 [Tutorial 10: Cross Entropy]: codes/zip/lab10_cross_entropy.zip
 
 
