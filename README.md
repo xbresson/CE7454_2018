@@ -140,6 +140,26 @@ Note: The datasets are too large for GitHub. You need to run the scripts in `CE7
 
 [Tutorial 10: Cross Entropy]: codes/zip/lab10_cross_entropy.zip
 
+[Tutorial 11: MLP]
+
+[Tutorial 11: MLP]: codes/zip/lab11_mlp.zip
+
+[Tutorial 12: Epochs]
+
+[Tutorial 12: Epochs]: codes/zip/lab12_epoch.zip
+
+[Tutorial 13: Monitoring Loss]
+
+[Tutorial 13: Monitoring Loss]: codes/zip/lab13_monitoring_loss.zip
+
+[Tutorial 14: Test Set]
+
+[Tutorial 14: Test Set]: codes/zip/lab14_test_set.zip
+
+[Tutorial 15: Final]
+
+[Tutorial 15: Final]: codes/zip/lab15_final.zip
+
 
 
 
