@@ -1,6 +1,6 @@
 ## CE7454: Deep Learning for Data Science <br> Semester 1 2018/19 <br> Xavier Bresson
     
-
+ 
 
 <br>
 <br>
