@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 cmap = sns.diverging_palette(262, 10, sep=1, n=16, s=99, l=50, center="dark", as_cmap=True) # best
 
+
+
+
 def show(X):
     if X.dim() == 3 and X.size(0) == 3:
         plt.imshow( np.transpose(  X.numpy() , (1, 2, 0))  )
@@ -221,3 +224,90 @@ def show_template_rgb_together(X):
     
     plt.imshow( np.transpose(  XX.numpy() , (1, 2, 0))  )
     plt.show()
+
+
+    
+import os.path
+def check_mnist_dataset_exists():
+    flag_train_data = os.path.isfile('../data/mnist/train_data.pt') 
+    flag_train_label = os.path.isfile('../data/mnist/train_label.pt') 
+    flag_test_data = os.path.isfile('../data/mnist/test_data.pt') 
+    flag_test_label = os.path.isfile('../data/mnist/test_label.pt') 
+    if flag_train_data==False or flag_train_label==False or flag_test_data==False or flag_test_label==False:
+        print('MNIST dataset missing - downloading...')
+        import torchvision
+        import torchvision.transforms as transforms
+        trainset = torchvision.datasets.MNIST(root='../data/mnist/temp', train=True,
+                                                download=True, transform=transforms.ToTensor())
+        testset = torchvision.datasets.MNIST(root='../data/mnist/temp', train=False,
+                                               download=True, transform=transforms.ToTensor())
+        train_data=torch.Tensor(60000,28,28)
+        train_label=torch.LongTensor(60000)
+        for idx , example in enumerate(trainset):
+            train_data[idx]=example[0].squeeze()
+            train_label[idx]=example[1]
+        torch.save(train_data,'../data/mnist/train_data.pt')
+        torch.save(train_label,'../data/mnist/train_label.pt')
+        test_data=torch.Tensor(10000,28,28)
+        test_label=torch.LongTensor(10000)
+        for idx , example in enumerate(testset):
+            test_data[idx]=example[0].squeeze()
+            test_label[idx]=example[1]
+        torch.save(test_data,'../data/mnist/test_data.pt')
+        torch.save(test_label,'../data/mnist/test_label.pt')
+
+def check_fashion_mnist_dataset_exists():
+    flag_train_data = os.path.isfile('../data/fashion-mnist/train_data.pt') 
+    flag_train_label = os.path.isfile('../data/fashion-mnist/train_label.pt') 
+    flag_test_data = os.path.isfile('../data/fashion-mnist/test_data.pt') 
+    flag_test_label = os.path.isfile('../data/fashion-mnist/test_label.pt') 
+    if flag_train_data==False or flag_train_label==False or flag_test_data==False or flag_test_label==False:
+        print('FASHION-MNIST dataset missing - downloading...')
+        import torchvision
+        import torchvision.transforms as transforms
+        trainset = torchvision.datasets.FashionMNIST(root='../data/fashion-mnist/temp', train=True,
+                                                download=True, transform=transforms.ToTensor())
+        testset = torchvision.datasets.FashionMNIST(root='../data/fashion-mnist/temp', train=False,
+                                               download=True, transform=transforms.ToTensor())
+        train_data=torch.Tensor(60000,28,28)
+        train_label=torch.LongTensor(60000)
+        for idx , example in enumerate(trainset):
+            train_data[idx]=example[0].squeeze()
+            train_label[idx]=example[1]
+        torch.save(train_data,'../data/fashion-mnist/train_data.pt')
+        torch.save(train_label,'../data/fashion-mnist/train_label.pt')
+        test_data=torch.Tensor(10000,28,28)
+        test_label=torch.LongTensor(10000)
+        for idx , example in enumerate(testset):
+            test_data[idx]=example[0].squeeze()
+            test_label[idx]=example[1]
+        torch.save(test_data,'../data/fashion-mnist/test_data.pt')
+        torch.save(test_label,'../data/fashion-mnist/test_label.pt')
+
+def check_cifar_dataset_exists():
+    flag_train_data = os.path.isfile('../data/cifar/train_data.pt') 
+    flag_train_label = os.path.isfile('../data/cifar/train_label.pt') 
+    flag_test_data = os.path.isfile('../data/cifar/test_data.pt') 
+    flag_test_label = os.path.isfile('../data/cifar/test_label.pt') 
+    if flag_train_data==False or flag_train_label==False or flag_test_data==False or flag_test_label==False:
+        print('CIFAR dataset missing - downloading... (5min)')
+        import torchvision
+        import torchvision.transforms as transforms
+        trainset = torchvision.datasets.CIFAR10(root='../data/cifar/temp', train=True,
+                                        download=True, transform=transforms.ToTensor())
+        testset = torchvision.datasets.CIFAR10(root='../data/cifar/temp', train=False,
+                                       download=True, transform=transforms.ToTensor())  
+        train_data=torch.Tensor(50000,3,32,32)
+        train_label=torch.LongTensor(50000)
+        for idx , example in enumerate(trainset):
+            train_data[idx]=example[0]
+            train_label[idx]=example[1]
+        torch.save(train_data,'../data/cifar/train_data.pt')
+        torch.save(train_label,'../data/cifar/train_label.pt') 
+        test_data=torch.Tensor(10000,3,32,32)
+        test_label=torch.LongTensor(10000)
+        for idx , example in enumerate(testset):
+            test_data[idx]=example[0]
+            test_label[idx]=example[1]
+        torch.save(test_data,'../data/cifar/test_data.pt')
+        torch.save(test_label,'../data/cifar/test_label.pt')
