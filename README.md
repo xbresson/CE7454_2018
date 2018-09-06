@@ -160,6 +160,15 @@ Note: The datasets are too large for GitHub. You need to run the scripts in `CE7
 
 [Tutorial 15: Final]: codes/zip/lab15_final.zip
 
+[Tutorial 16: MNIST Multilayer]
+
+[Tutorial 16: MNIST Multilayer]: codes/zip/lab16_mnist_multilayer.zip
+
+[Tutorial 17: CIFAR Multilayer]
+
+[Tutorial 17: CIFAR Multilayer]: codes/zip/lab17_cifar_multilayer.zip
+
+
 
 
 
