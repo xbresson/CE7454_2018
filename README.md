@@ -87,7 +87,7 @@ Follow the following instructions to install Miniconda and create a Python envir
 ## Python notebooks of the course
 <br>
 
-Note: The datasets are too large for GitHub. You need to run the scripts in `CE7454_2018/codes/data` or from the zip file [Download datasets] to download the datasets.<br><br>
+Note: The datasets are too large for GitHub. They will be automatically downloaded when running the codes, or you can directly download the datasets from `CE7454_2018/codes/data` or the zip file [Download datasets].<br><br>
 
 
 
@@ -100,73 +100,27 @@ Note: The datasets are too large for GitHub. You need to run the scripts in `CE7
 
 [Download datasets]: codes/zip/data.zip
 
-[Tutorial 1: Introduction to Python]
+[Labs lecture 03: Python and PyTorch]
 
-[Tutorial 1: Introduction to Python]: codes/zip/lab01_python.zip
+[Labs lecture 03: Python and PyTorch]: codes/zip/labs_lecture03.zip
 
-[Tutorial 2: Introduction to PyTorch]
+[Labs lecture 04: Vanilla Neural Networks Part 1]
 
-[Tutorial 2: Introduction to PyTorch]: codes/zip/lab02_pytorch.zip
+[Labs lecture 04: Vanilla Neural Networks Part 1]: codes/zip/labs_lecture04.zip
 
-[Tutorial 3: PyTorch Tensor 1]
+[Labs lecture 06: Vanilla Neural Networks Part 2]
 
-[Tutorial 3: PyTorch Tensor 1]: codes/zip/lab03_pytorch_tensor1.zip
+[Labs lecture 06: Vanilla Neural Networks Part 2]: codes/zip/labs_lecture06.zip
 
-[Tutorial 4: PyTorch Tensor 2]
+[Labs lecture 07: Multi-Layer Perceptron Part 1]
 
-[Tutorial 4: PyTorch Tensor 2]: codes/zip/lab04_pytorch_tensor2.zip
+[Labs lecture 07: Multi-Layer Perceptron Part 1]: codes/zip/labs_lecture07.zip
 
-[Tutorial 5: Linear Module]
+[Labs lecture 08: Multi-Layer Perceptron Part 2]
 
-[Tutorial 5: Linear Module]: codes/zip/lab05_linear_module.zip
+[Labs lecture 08: Multi-Layer Perceptron Part 2]: codes/zip/labs_lecture08.zip
 
-[Tutorial 6: Softmax]
 
-[Tutorial 6: Softmax]: codes/zip/lab06_softmax.zip
-
-[Tutorial 7: Vanilla NN]
-
-[Tutorial 7: Vanilla NN]: codes/zip/lab07_vanilla_nn.zip
-
-[Tutorial 8: Train Vanilla NN]
-
-[Tutorial 8: Train Vanilla NN]: codes/zip/lab08_train_vanilla_nn.zip
-
-[Tutorial 9: Minibatch Training]
-
-[Tutorial 9: Minibatch Training]: codes/zip/lab09_minibatch_training.zip
-
-[Tutorial 10: Cross Entropy]
-
-[Tutorial 10: Cross Entropy]: codes/zip/lab10_cross_entropy.zip
-
-[Tutorial 11: MLP]
-
-[Tutorial 11: MLP]: codes/zip/lab11_mlp.zip
-
-[Tutorial 12: Epochs]
-
-[Tutorial 12: Epochs]: codes/zip/lab12_epoch.zip
-
-[Tutorial 13: Monitoring Loss]
-
-[Tutorial 13: Monitoring Loss]: codes/zip/lab13_monitoring_loss.zip
-
-[Tutorial 14: Test Set]
-
-[Tutorial 14: Test Set]: codes/zip/lab14_test_set.zip
-
-[Tutorial 15: Final]
-
-[Tutorial 15: Final]: codes/zip/lab15_final.zip
-
-[Tutorial 16: MNIST Multilayer]
-
-[Tutorial 16: MNIST Multilayer]: codes/zip/lab16_mnist_multilayer.zip
-
-[Tutorial 17: CIFAR Multilayer]
-
-[Tutorial 17: CIFAR Multilayer]: codes/zip/lab17_cifar_multilayer.zip
 
 
 
