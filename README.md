@@ -120,6 +120,10 @@ Note: The datasets are too large for GitHub. They will be automatically download
 
 [Labs lecture 08: Multi-Layer Perceptron Part 2]: codes/zip/labs_lecture08.zip
 
+[Labs lecture 10: Convolutional Neural Networks]
+
+[Labs lecture 10: Convolutional Neural Networks]: codes/zip/labs_lecture10.zip
+
 
 
 
