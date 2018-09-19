@@ -2,15 +2,31 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 import math
-
+import os.path
 
 
 #############################
 # PTB
 #############################
-path_data = '../../data/'
-word2idx  =  torch.load(path_data + 'ptb/word2idx.pt')
-idx2word  =  torch.load(path_data + 'ptb/idx2word.pt')
+def check_ptb_dataset_exists(path_data='../../data/'):
+    flag_idx2word = os.path.isfile(path_data + 'ptb/idx2word.pt') 
+    flag_test_data = os.path.isfile(path_data + 'ptb/test_data.pt') 
+    flag_train_data = os.path.isfile(path_data + 'ptb/train_data.pt') 
+    flag_word2idx = os.path.isfile(path_data + 'ptb/word2idx.pt') 
+    if flag_idx2word==False or flag_test_data==False or flag_train_data==False or flag_word2idx==False:
+        print('PTB dataset missing - generating...')
+        data_folder = 'ptb/data_raw'
+        corpus = Corpus(path_data+data_folder)
+        batch_size=20
+        train_data = batchify(corpus.train, batch_size)
+        val_data = batchify(corpus.valid, batch_size)
+        test_data = batchify(corpus.test, batch_size)
+        vocab_size = len(corpus.dictionary)
+        torch.save(train_data,path_data + 'ptb/train_data.pt')
+        torch.save(test_data,path_data + 'ptb/test_data.pt')
+        torch.save(corpus.dictionary.idx2word,path_data + 'ptb/idx2word.pt')
+        torch.save(corpus.dictionary.word2idx,path_data + 'ptb/word2idx.pt')
+    return path_data
 
 class Dictionary(object):
     def __init__(self):
@@ -66,25 +82,13 @@ def batchify(data, bsz):
     data = data.view(bsz, -1).t().contiguous()
     return data
 
-def check_ptb_dataset_exists(path_data='../../data/'):
-    flag_idx2word = os.path.isfile(path_data + 'ptb/idx2word.pt') 
-    flag_test_data = os.path.isfile(path_data + 'ptb/test_data.pt') 
-    flag_train_data = os.path.isfile(path_data + 'ptb/train_data.pt') 
-    flag_word2idx = os.path.isfile(path_data + 'ptb/word2idx.pt') 
-    if flag_idx2word==False or flag_test_data==False or flag_train_data==False or flag_word2idx==False:
-        print('PTB dataset missing - generating...')
-        data_folder = 'ptb/data_raw'
-        corpus = Corpus(path_data+data_folder)
-        batch_size=20
-        train_data = batchify(corpus.train, batch_size)
-        val_data = batchify(corpus.valid, batch_size)
-        test_data = batchify(corpus.test, batch_size)
-        vocab_size = len(corpus.dictionary)
-        torch.save(train_data,path_data + 'ptb/train_data.pt')
-        torch.save(test_data,path_data + 'ptb/test_data.pt')
-        torch.save(corpus.dictionary.idx2word,path_data + 'ptb/idx2word.pt')
-        torch.save(corpus.dictionary.word2idx,path_data + 'ptb/word2idx.pt')
-    return path_data
+
+path_data = '../../data/'
+_ = check_ptb_dataset_exists(path_data)
+word2idx  =  torch.load(path_data + 'ptb/word2idx.pt')
+idx2word  =  torch.load(path_data + 'ptb/idx2word.pt')
+
+
 
 
 
@@ -143,7 +147,6 @@ def show_next_word(scores):
 
 
         
-import os.path
 def check_mnist_dataset_exists(path_data='../../data/'):
     flag_train_data = os.path.isfile(path_data + 'mnist/train_data.pt') 
     flag_train_label = os.path.isfile(path_data + 'mnist/train_label.pt') 
