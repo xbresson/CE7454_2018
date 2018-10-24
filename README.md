@@ -124,6 +124,18 @@ Note: The datasets are too large for GitHub. They will be automatically download
 
 [Labs lecture 10: Convolutional Neural Networks]: codes/zip/labs_lecture10.zip
 
+[Labs lecture 13: Recurrent Neural Networks]
+
+[Labs lecture 13: Recurrent Neural Networks]: codes/zip/labs_lecture13.zip
+
+[Labs lecture 17: Introduction to Graph Science]
+
+[Labs lecture 17: Introduction to Graph Science]: codes/zip/labs_lecture17.zip
+
+[Labs lecture 18: Graph Neural Networks Part 1]
+
+[Labs lecture 18: Graph Neural Networks Part 1]: codes/zip/labs_lecture18.zip
+
 
 
 
