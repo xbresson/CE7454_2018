@@ -136,6 +136,10 @@ Note: The datasets are too large for GitHub. They will be automatically download
 
 [Labs lecture 18: Graph Neural Networks Part 1]: codes/zip/labs_lecture18.zip
 
+[Labs lecture 19: Graph Neural Networks Part 2]
+
+[Labs lecture 19: Graph Neural Networks Part 2]: codes/zip/labs_lecture19.zip
+
 
 
 
