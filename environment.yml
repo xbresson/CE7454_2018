@@ -24,7 +24,13 @@ dependencies:
 
   # deep learning
   - pytorch=0.4.1
-  - pip:
-    - torchvision
   - tensorflow
   - keras
+
+  - Pillow # module PIL for RL
+  
+  - pip:
+    - gym # openAI
+    - torchvision # pytroch
+
+

@@ -140,6 +140,10 @@ Note: The datasets are too large for GitHub. They will be automatically download
 
 [Labs lecture 19: Graph Neural Networks Part 2]: codes/zip/labs_lecture19.zip
 
+[Labs lecture 20: Deep Reinforcement Learning]
+
+[Labs lecture 20: Deep Reinforcement Learning]: codes/zip/labs_lecture20.zip
+
 
 
 
