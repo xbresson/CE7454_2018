@@ -1,0 +1,99 @@
+common_name,scientific_name,abundance,status,family,notes
+Yellow Bittern,Ixobrychus sinensis,C,RB WV,Ardeidae,-
+Striated Heron,Butorides striata,C,RB WV,Ardeidae,-
+Chinese Pond Heron,Ardeola bacchus,C,WV,Ardeidae,-
+Eastern Cattle Egret,Bubulcus ibis,C,IR(B) WV,Ardeidae,-
+Great Egret,Ardea alba,C,WV,Ardeidae,-
+Little Egret,Egretta garzetta,C,WV,Ardeidae,-
+Western Osprey,Pandion haliaetus,C,NBV,Pandionidae,-
+Crested Honey Buzzard,Pernis ptilorhynchus,C,PM WV NBV,Accipitridae,-
+Black Baza,Aviceda leuphotes,C,PM WV,Accipitridae,-
+Japanese Sparrowhawk,Accipiter gularis,C,PM WV,Accipitridae,-
+Brahminy Kite,Haliastur indus,C,RB,Accipitridae,-
+White-bellied Sea Eagle,Haliaeetus leucogaster,C,RB,Accipitridae,-
+White-breasted Waterhen,Amaurornis phoenicurus,C,RB WV,Rallidae,-
+Pacific Golden Plover,Pluvialis fulva,C,WV PM,Charadriidae,-
+Lesser Sand Plover,Charadrius mongolus,C,WV PM,Charadriidae,-
+Pin-tailed Snipe,Gallinago stenura,C,WV,Scolopacidae,-
+Common Snipe,Gallinago gallinago,C,WV,Scolopacidae,-
+Whimbrel,Numenius phaeopus,C,WV PM,Scolopacidae,-
+Common Redshank,Tringa totanus,C,WV PM,Scolopacidae,-
+Marsh Sandpiper,Tringa stagnatilis,C,WV PM,Scolopacidae,-
+Common Greenshank,Tringa nebularia,C,WV,Scolopacidae,-
+Common Sandpiper,Actitis hypoleucos,C,WV PM,Scolopacidae,-
+Red-necked Stint,Calidris ruficollis,C,WV PM,Scolopacidae,-
+Greater Crested Tern,Thalasseus bergii,C,WV,Laridae,-
+Lesser Crested Tern,Thalasseus bengalensis,C,WV,Laridae,-
+Little Tern,Sternula albifrons,C,RB WV,Laridae,##
+White-winged Tern,Chlidonias leucopterus,C,WV PM,Laridae,-
+Zebra Dove,Geopelia striata,C,RB,Columbidae,-
+Lesser Coucal,Centropus bengalensis,C,RB,Cuculidae,-
+Asian Koel,Eudynamys scolopaceus,C,RB WV,Cuculidae,-
+Little Bronze Cuckoo,Chrysococcyx minutillus,C,RB,Cuculidae,-
+Sunda Scops Owl,Otus lempiji,C,RB,Strigidae,-
+Brown Hawk-Owl,Ninox scutulata,C,RB,Strigidae,-
+Large-tailed Nightjar,Caprimulgus macrurus,C,RB,Caprimulgidae,-
+Savanna Nightjar,Caprimulgus affinis,C,RB,Caprimulgidae,-
+Grey-rumped Treeswift,Hemiprocne longipennis,C,RB,Hemiprocnidae,-
+Black-nest Swiftlet,Aerodramus maximus,C,RB,Apodidae,-
+Germain's Swiftlet,Aerodramus germani,C,RB,Apodidae,-
+Oriental Dollarbird,Eurystomus orientalis,C,RB WV,Coraciidae,-
+White-throated Kingfisher,Halcyon smyrnensis,C,RB,Alcedinidae,-
+Common Kingfisher,Alcedo atthis,C,WV,Alcedinidae,-
+Blue-tailed Bee-eater,Merops philippinus,C,WV,Meropidae,-
+Blue-throated Bee-eater,Merops viridis,C,MB,Meropidae,-
+Coppersmith Barbet,Megalaima haemacephala,C,RB,Megalaimidae,-
+Banded Woodpecker,Chrysophlegma miniaceum,C,RB,Picidae,-
+Laced Woodpecker,Picus vittatus,C,RB,Picidae,-
+Common Flameback,Dinopium javanense,C,RB,Picidae,-
+Tanimbar Corella,Cacatua goffiniana,C,IRB,Cacatuidae,*
+Red-breasted Parakeet,Psittacula alexandri,C,IRB,Psittacidae,-
+Long-tailed Parakeet,Psittacula longicauda,C,RB,Psittacidae,*
+Golden-bellied Gerygone,Gerygone sulphurea,C,RB,Acanthizidae,-
+Common Iora,Aegithina tiphia,C,RB,Aegithinidae,-
+Pied Triller,Lalage nigra,C,RB,Campephagidae,-
+Ashy Minivet,Pericrocotus divaricatus,C,WV PM,Campephagidae,-
+Tiger Shrike,Lanius tigrinus,C,WV PM,Laniidae,-
+Brown Shrike,Lanius cristatus,C,WV PM,Laniidae,-
+Black-naped Oriole,Oriolus chinensis,C,RB,Oriolidae,-
+Greater Racket-tailed Drongo,Dicrurus paradiseus,C,RB,Dicruridae,-
+Malaysian Pied Fantail,Rhipidura javanica,C,RB,Rhipiduridae,-
+Amur Paradise Flycatcher,Terpsiphone incei ,C,PM WV,Monarchidae,-
+House Crow,Corvus splendens,C,IRB,Corvidae,-
+Olive-winged Bulbul,Pycnonotus plumosus,C,RB,Pycnonotidae,-
+Pacific Swallow,Hirundo tahitica,C,RB,Hirundinidae,-
+Arctic Warbler,Phylloscopus borealis,C,WV PM,Phylloscopidae,-
+Oriental Reed Warbler,Acrocephalus orientalis,C,WV,Acrocephalidae,-
+Zitting Cisticola,Cisticola juncidis,C,RB,Cisticolidae,-
+Yellow-bellied Prinia,Prinia flaviventris,C,RB,Cisticolidae,-
+Common Tailorbird,Orthotomus sutorius,C,RB,Cisticolidae,-
+Dark-necked Tailorbird,Orthotomus atrogularis,C,RB,Cisticolidae,-
+Ashy Tailorbird,Orthotomus ruficeps,C,RB,Cisticolidae,-
+Pin-striped Tit-Babbler,Macronous gularis,C,RB,Timaliidae,-
+Short-tailed Babbler,Malcocincla malaccensis,C,RB,Pellorneidae,*
+White-crested Laughingthrush,Garrulax leucolophus,C,IRB,Leiothrichidae,-
+Oriental White-eye,Zosterops palpebrosus,C,I? RB,Zosteropidae,-
+Asian Glossy Starling,Aplonis panayensis,C,RB,Sturnidae,-
+Common Myna,Acridotheres tristis,C,RB,Sturnidae,-
+Daurian Starling ,Agropsar sturninus,C,WV PM,Sturnidae,-
+Asian Brown Flycatcher,Muscicapa latirostris,C,WV PM,Muscicapidae,-
+Siberian Blue Robin,Larvivora cyane,C,PM WV,Muscicapidae,-
+Blue-winged Leafbird ,Chloropsis cochinchinensis,C,R(B),Chloropseidae,#
+Orange-bellied Flowerpecker ,Dicaeum trigonostigma,C,RB,Dicaeidae,-
+Scarlet-backed Flowerpecker ,Dicaeum cruentatum,C,RB,Dicaeidae,-
+Brown-throated Sunbird ,Anthreptes malacensis,C,RB,Nectariniidae,-
+Van Hasselt's Sunbird ,Leptocoma brasiliana,C,RB,Nectariniidae,-
+Olive-backed Sunbird,Cinnyris jugularis,C,RB,Nectariniidae,-
+Crimson Sunbird,Aethopyga siparaja,C,RB,Nectariniidae,-
+Eurasian Tree Sparrow,Passer montanus,C,RB (I)?,Passeridae,-
+Scaly-breasted Munia,Lonchura punctulata,C,RB,Estrildidae,-
+Eastern Yellow Wagtail ,Motacilla tschutschensis,C,WV,Motacillidae,-
+Paddyfield Pipit,Anthus rufulus,C,RB,Motacillidae,-
+Rock Dove,Columba livia,A,IRB,Columbidae,-
+Spotted Dove,Spilopelia chinensis,A,RB,Columbidae,-
+Pink-necked Green Pigeon,Treron vernans,A,RB,Columbidae,-
+Collared Kingfisher,Todiramphus chloris,A,RB,Alcedinidae,-
+Sunda Pygmy Woodpecker,Dendrocopos moluccensis,A,RB,Picidae,-
+Yellow-vented Bulbul,Pycnonotus goiavier,A,RB,Pycnonotidae,-
+Barn Swallow,Hirundo rustica,A,WV PM,Hirundinidae,-
+Javan Myna,Acridotheres javanicus,A,IRB,Sturnidae,**

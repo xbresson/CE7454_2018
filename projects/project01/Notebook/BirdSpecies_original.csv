@@ -1,0 +1,480 @@
+﻿No.;Common Name;Scientific Name;Abundance;Status
+Family Anatidae;;;;
+1;Wandering Whistling Duck;Dendrocygna arcuata;U;I? RB
+2;Lesser Whistling Duck ##;Dendrocygna javanica;U;RB
+3;Cotton Pygmy Goose ##;Nettapus coromandelianus;R;R(B)
+4;Gadwall;Anas strepera;R;ACC
+5;Eurasian Wigeon;Anas penelope;R;ACC
+6;Northern Shoveler;Anas clypeata;R;WV
+7;Northern Pintail;Anas acuta;R;WV
+8;Garganey;Anas querquedula;R;WV
+9;Eurasian Teal;Anas crecca;R;WV
+10;Tufted Duck;Aythya fuligula;R;ACC
+Family Phasianidae;;;;
+11;King Quail;Excalfactoria chinensis;U;RB
+12;Red Junglefowl ##;Gallus gallus;U;RB
+Family Hydrobatidae;;;;
+13;Swinhoe's Storm Petrel *;Oceanodroma monorhis;U;PM
+Family Procellariidae;;;;
+14;Short-tailed Shearwater;Puffinus tenuirostris;R;ACC
+Family Podicipedidae;;;;
+15;Little Grebe ##;Tachybaptus ruficollis;R;RB
+Family Ciconiidae;;;;
+16;Asian Openbill;Anastomus oscitans;R;NBV
+17;Lesser Adjutant **;Leptoptilos javanicus;R;NBV
+Family Threskiornithidae;;;;
+18;Glossy Ibis;Plegadis falcinellus;R;ACC
+Family Ardeidae;;;;
+19;Yellow Bittern;Ixobrychus sinensis;C;RB WV
+20;Von Schrenck's Bittern;Ixobrychus eurhythmus;U;WV
+21;Cinnamon Bittern;Ixobrychus cinnamomeus;U;RB WV
+22;Black Bittern;Dupetor flavicollis;U;PM WV
+23;Malayan Night Heron;Gorsachius melanolophus;R;WV PM
+24;Black-crowned Night Heron ##;Nycticorax nycticorax;U;RB
+25;Striated Heron;Butorides striata;C;RB WV
+26;Indian Pond Heron;Ardeola grayii;R;ACC
+27;Chinese Pond Heron;Ardeola bacchus;C;WV
+28;Javan Pond Heron;Ardeola speciosa;U;WV
+29;Eastern Cattle Egret;Bubulcus coromandus;C;IR(B) WV
+30;Grey Heron ##;Ardea cinerea;U;RB
+31;Great-billed Heron ##;Ardea sumatrana;U;RB
+32;Purple Heron ##;Ardea purpurea;U;RB
+33;Great Egret;Ardea alba;C;WV
+34;Intermediate Egret;Egretta intermedia;U;WV
+35;Little Egret;Egretta garzetta;C;WV
+36;Pacific Reef Heron;Egretta sacra;U;R(B)
+37;Chinese Egret **;Egretta eulophotes;R;WV
+Family Fregatidae;;;;
+38;Christmas Frigatebird **;Fregata andrewsi;R;NBV
+39;Lesser Frigatebird;Fregata ariel;R;NBV
+Family Sulidae;;;;
+40;Red-footed Booby;Sula sula;R;NBV
+41;Brown Booby;Sula leucogaster;R;NBV
+Family Anhingidae;;;;
+42;Oriental Darter *;Anhinga melanogaster;R;NBV
+Family Pandionidae;;;;
+43;Western Osprey;Pandion haliaetus;C;NBV
+Family Accipitridae;;;;
+44;Black-winged Kite;Elanus caeruleus;U;RB
+45;Crested Honey Buzzard;Pernis ptilorhynchus;C;PM WV NBV
+46;Jerdon's Baza;Aviceda jerdoni;U;WV
+47;Black Baza;Aviceda leuphotes;C;PM WV
+48;Himalayan Vulture *;Gyps himalayensis;R;ACC
+49;Crested Serpent Eagle ##;Spilornis cheela;R;R(B)
+50;Short-toed Snake Eagle;Circaetus gallicus;R;PM
+51;Bat Hawk;Macheiramphus alcinus;R;NBV
+52;Changeable Hawk-Eagle ##;Nisaetus cirrhatus;U;RB
+53;Blyth's Hawk-Eagle;Nisaetus alboniger;R;NBV
+54;Rufous-bellied Hawk-Eagle;Lophotriorchis kienerii;R;WV
+55;Greater Spotted Eagle **;Clanga clanga;R;WV
+56;Booted Eagle;Hieraaetus pennatus;U;WV
+57;Steppe Eagle;Aquila nipalensis;R;ACC
+58;Eastern Imperial Eagle **;Aquila heliaca;R;ACC
+59;Crested Goshawk ##;Accipiter trivirgatus;U;RB
+60;Chinese Sparrowhawk;Accipiter soloensis;U;PM WV
+61;Japanese Sparrowhawk;Accipiter gularis;C;PM WV
+62;Besra;Accipiter virgatus;R;PM
+63;Eurasian Sparrowhawk;Accipiter nisus;R;ACC
+64;Western Marsh Harrier;Circus aeruginosus;R;ACC
+65;Eastern Marsh Harrier;Circus spilonotus;U;WV
+66;Hen Harrier;Circus cyaneus;R;WV
+67;Pied Harrier;Circus melanoleucos;R;WV
+68;Black Kite;Milvus migrans;R;WV
+69;Brahminy Kite;Haliastur indus;C;RB
+70;White-bellied Sea Eagle;Haliaeetus leucogaster;C;RB
+71;Grey-headed Fish Eagle ##*;Haliaeetus ichthyaetus;U;RB
+72;Grey-faced Buzzard;Butastur indicus;U;WV
+73;Common Buzzard;Buteo buteo;U;WV
+Family Heliornithidae;;;;
+74;Masked Finfoot **;Heliopais personata;R;ACC
+Family Rallidae;;;;
+75;Red-legged Crake ##;Rallina fasciata;U;RB WV
+76;Slaty-legged Crake;Rallina eurizonoides;R;WV PM
+77;Slaty-breasted Rail;Gallirallus striatus;U;RB
+78;White-breasted Waterhen;Amaurornis phoenicurus;C;RB WV
+79;Baillon's Crake;Porzana pusilla;U;WV PM
+80;Ruddy-breasted Crake #;Porzana fusca;U;RB WV
+81;Band-bellied Crake *;Porzana paykullii;R;ACC
+82;White-browed Crake;Porzana cinerea;U;RB
+83;Watercock;Gallicrex cinerea;U;WV
+84;Black-backed Swamphen #;Porphyrio indicus;U;RB
+85;Common Moorhen;Gallinula chloropus;U;RB
+86;Eurasian Coot;Fulica atra;R;ACC
+Family Turnicidae;;;;
+87;Barred Buttonquail;Turnix suscitator;U;RB
+Family Burhinidae;;;;
+ 88; Beach Stone-curlew ##*; Esacus magnirostris;R;R(B)
+Family Recurvirostridae ;;;;
+89;Black-winged Stilt;Himantopus himantopus;R;WV PM
+Family Charadriidae;;;;
+90;Grey-headed Lapwing;Vanellus cinereus;R;ACC
+91;Red-wattled Lapwing ##;Vanellus indicus;U;RB
+92;Pacific Golden Plover;Pluvialis fulva;C;WV PM
+93;Grey Plover;Pluvialis squatarola;U;WV PM
+94;Common Ringed Plover;Charadrius hiaticula;R;PM
+95;Little Ringed Plover;Charadrius dubius;U;WV PM
+96;Kentish Plover;Charadrius alexandrinus;U;WV PM
+97;Malaysian Plover ##*;Charadrius peronii;U;RB
+98;Lesser Sand Plover;Charadrius mongolus;C;WV PM
+99;Greater Sand Plover;Charadrius leschenaultii;U;WV PM
+100;Oriental Plover;Charadrius veredus;R;PM
+Family Rostratulidae;;;;
+101;Greater Painted-snipe ##;Rostratula benghalensis;R;RB
+Family Jacanidae;;;;
+102;Pheasant-tailed Jacana;Hydrophasianus chirurgus;R;WV
+Family Scolopacidae;;;;
+103;Eurasian Woodcock;Scolopax rusticola;R;WV
+104;Pin-tailed Snipe;Gallinago stenura;C;WV
+105;Swinhoe's Snipe;Gallinago megala;R;WV
+106;Common Snipe;Gallinago gallinago;C;WV
+107;Asian Dowitcher *;Limnodromus semipalmatus;U;WV PM
+108;Black-tailed Godwit *;Limosa limosa;U;WV PM
+109;Bar-tailed Godwit *;Limosa lapponica;U;WV PM
+110;Little Curlew;Numenius minutus;R;ACC
+111;Whimbrel;Numenius phaeopus;C;WV PM
+112;Eurasian Curlew *;Numenius arquata;R;WV PM
+113;Far Eastern Curlew **;Numenius madagascariensis;R;PM
+114;Spotted Redshank;Tringa erythropus;R;WV
+115;Common Redshank;Tringa totanus;C;WV PM
+116;Marsh Sandpiper;Tringa stagnatilis;C;WV PM
+117;Common Greenshank;Tringa nebularia;C;WV
+118;Nordmann's Greenshank **;Tringa guttifer;R;WV
+119;Green Sandpiper;Tringa ochropus;R;WV
+120;Wood Sandpiper;Tringa glareola;U;WV PM
+121;Grey-tailed Tattler *;Tringa brevipes;R;WV PM
+122;Terek Sandpiper;Xenus cinereus;U;WV PM
+123;Common Sandpiper;Actitis hypoleucos;C;WV PM
+124;Ruddy Turnstone;Arenaria interpres;U;WV
+125;Great Knot **;Calidris tenuirostris;R;PM
+126;Red Knot;Calidris canutus;R;WV
+127;Sanderling;Calidris alba;U;WV
+128;Red-necked Stint;Calidris ruficollis;C;WV PM
+129;Little Stint ;Calidris minuta;R ;ACC
+130;Temminck's Stint;Calidris temminckii;R;PM
+131;Long-toed Stint;Calidris subminuta;U;WV PM
+132;Pectoral Sandpiper;Calidris melanotos;R;ACC
+133;Sharp-tailed Sandpiper;Calidris acuminata;R;ACC
+134;Curlew Sandpiper;Calidris ferruginea;U;WV PM
+135;Dunlin;Calidris alpina;R;PM
+136;Spoon-billed Sandpiper **;Eurynorhynchus pygmeus;R;WV
+137;Broad-billed Sandpiper;Limicola falcinellus;U;WV PM
+138;Ruff;Philomachus pugnax;R;WV
+139;Red-necked Phalarope;Phalaropus lobatus;R;WV
+Family Glareolidae;;;;
+140;Oriental Pratincole;Glareola maldivarum;U;PM
+141;Small Pratincole;Glareola lactea;R;PM
+Family Laridae;;;;
+142;Brown-headed Gull;Chroicocephalus brunnicephalus;R;ACC
+143;Black-headed Gull;Chroicocephalus ridibundus;U;WV
+144;Lesser Black-backed Gull;Larus fuscus;R;ACC
+145;Gull-billed Tern;Gelochelidon nilotica;R;WV PM
+146;Caspian Tern;Hydroprogne caspia;R;WV
+147;Greater Crested Tern;Thalasseus bergii;C;WV
+148;Lesser Crested Tern;Thalasseus bengalensis;C;WV
+149;Little Tern ##;Sternula albifrons;C;RB WV
+150;Aleutian Tern;Onychoprion aleuticus;U;PM
+151;Bridled Tern;Onychoprion anaethetus;U;WV
+152;Roseate Tern;Sterna dougallii;R;ACC
+153;Black-naped Tern ##;Sterna sumatrana;U;RB
+154;Common Tern;Sterna hirundo;U;WV
+155;Whiskered Tern;Chlidonias hybrida;U;WV PM
+156;White-winged Tern;Chlidonias leucopterus;C;WV PM
+Family Stercorariidae;;;;
+157;Pomarine Skua;Stercorarius pomarinus;R;WV
+158;Parasitic Jaeger;Stercorarius parasiticus;R;WV
+159;Long-tailed Jaeger;Stercorarius longicaudus;R;WV
+Family Columbidae;;;;
+160;Rock Dove;Columba livia;A;IRB
+161;Red Turtle Dove;Streptopelia tranquebarica;U;IRB
+162;Spotted Dove;Spilopelia chinensis;A;RB
+163;Common Emerald Dove;Chalcophaps indica;U;RB
+164;Zebra Dove;Geopelia striata;C;RB
+165;Cinnamon-headed Green Pigeon *;Treron fulvicollis;R;NBV
+166;Little Green Pigeon ##;Treron olax;R;R(B)
+167;Pink-necked Green Pigeon;Treron vernans;A;RB
+168;Thick-billed Green Pigeon ##;Treron curvirostra;U;RB
+169;Jambu Fruit Dove *;Ptilinopus jambu;U;NBV
+170;Green Imperial Pigeon;Ducula aenea;U;RB
+171;Mountain Imperial Pigeon;Ducula badia;R;NBV
+172;Pied Imperial Pigeon;Ducula bicolor;U;IR(B) NBV
+Family Cuculidae;;;;
+173;Greater Coucal;Centropus sinensis;U;RB
+174;Lesser Coucal;Centropus bengalensis;C;RB
+175;Chestnut-bellied Malkoha #*;Phaenicophaeus sumatranus;U;RB
+176;Chestnut-winged Cuckoo;Clamator coromandus;U;PM WV
+177;Jacobin Cuckoo;Clamator jacobinus;R;ACC
+178;Asian Koel;Eudynamys scolopaceus;C;RB WV
+179;Asian Emerald Cuckoo;Chrysococcyx maculatus;R;ACC
+180;Violet Cuckoo ##;Chrysococcyx xanthorhynchus;U;RB WV
+181;Horsfield's Bronze Cuckoo;Chrysococcyx basalis;R;WV
+182;Little Bronze Cuckoo;Chrysococcyx minutillus;C;RB
+183;Banded Bay Cuckoo;Cacomantis sonneratii;U;RB
+184;Plaintive Cuckoo;Cacomantis merulinus;U;RB
+185;Rusty-breasted Cuckoo ##;Cacomantis sepulcralis;U;RB
+186;Square-tailed Drongo-Cuckoo ##;Surniculus lugubris;U;RB WV
+187;Large Hawk-Cuckoo;Hierococcyx sparverioides;R;WV PM
+188;Malaysian Hawk-Cuckoo;Hierococcyx fugax;U;NBV
+189;Hodgson's Hawk-Cuckoo;Hierococcyx nisicolor;U;WV
+190;Indian Cuckoo;Cuculus micropterus;U;WV PM
+191;Himalayan Cuckoo;Cuculus saturatus;R;PM
+Family Tytonidae;;;;
+192;Eastern Barn Owl;Tyto javanica;U;RB
+Family Strigidae;;;;
+193;Sunda Scops Owl;Otus lempiji;C;RB
+194;Oriental Scops Owl;Otus sunia;R;WV PM
+195;Barred Eagle-Owl ##;Bubo sumatranus;R;NBV
+196;Buffy Fish Owl ##;Ketupa ketupu;U;RB
+197;Spotted Wood Owl ##;Strix seloputo;U;RB
+198;Brown Wood Owl ##;Strix leptogrammica;R;RB
+199;Brown Hawk-Owl;Ninox scutulata;C;RB
+200;Northern Boobook;Ninox japonica;R;ACC
+201;Short-eared Owl;Asio flammeus;R;WV PM
+Family Caprimulgidae;;;;
+202;Malaysian Eared Nightjar ##;Lyncornis temminckii;R;R(B)
+203;Grey Nightjar;Caprimulgus jotaka;U;WV PM
+204;Large-tailed Nightjar;Caprimulgus macrurus;C;RB
+205;Savanna Nightjar;Caprimulgus affinis;C;RB
+Family Hemiprocnidae;;;;
+206;Grey-rumped Treeswift;Hemiprocne longipennis;C;RB
+207;Whiskered Treeswift;Hemiprocne comata;R;NBV
+Family Apodidae;;;;
+208;Plume-toed Swiftlet;Collocalia affinis;U;R(B)
+209;Black-nest Swiftlet;Aerodramus maximus;C;RB
+210;Germain's Swiftlet;Aerodramus germani;C;RB
+211;Silver-rumped Needletail;Rhaphidura leucopygialis;R;NBV
+212;White-throated Needletail;Hirundapus caudacutus;R;ACC
+213;Silver-backed Needletail;Hirundapus cochinchinensis;U;WV PM
+214;Brown-backed Needletail;Hirundapus giganteus;U;WV PM
+215;Asian Palm Swift;Cypsiurus balasiensis;U;RB
+216;Pacific Swift;Apus pacificus;U;PM WV
+217;House Swift;Apus nipalensis;U;RB
+Family Coraciidae;;;;
+218;Oriental Dollarbird;Eurystomus orientalis;C;RB WV
+Family Alcedinidae;;;;
+219;Stork-billed Kingfisher;Pelargopsis capensis;U;RB
+220;Ruddy Kingfisher ##;Halcyon coromanda;U;RB WV
+221;White-throated Kingfisher;Halcyon smyrnensis;C;RB
+222;Black-capped Kingfisher;Halcyon pileata;U;WV PM
+223;Collared Kingfisher;Todiramphus chloris;A;RB
+224;Blue-eared Kingfisher ##;Alcedo meninting;R;RB
+225;Common Kingfisher;Alcedo atthis;C;WV
+226;Oriental Dwarf Kingfisher;Ceyx erithaca;U;WV PM
+Family Meropidae;;;;
+227;Blue-tailed Bee-eater;Merops philippinus;C;WV
+228;Blue-throated Bee-eater;Merops viridis;C;MB
+Family Bucerotidae;;;;
+229;Oriental Pied Hornbill ##;Anthracoceros albirostris;U;RB
+230;Black Hornbill *;Anthracoceros malayanus;R;NBV
+Family Megalaimidae;;;;
+231;Lineated Barbet;Megalaima lineata;U;IRB
+232;Red-crowned Barbet #*;Megalaima rafflesii;U;RB
+233;Coppersmith Barbet;Megalaima haemacephala;C;RB
+Family Picidae;;;;
+234;Sunda Pygmy Woodpecker;Dendrocopos moluccensis;A;RB
+235;White-bellied Woodpecker ##;Dryocopus javensis;R;R(B)
+236;Banded Woodpecker;Chrysophlegma miniaceum;C;RB
+237;Laced Woodpecker;Picus vittatus;C;RB
+238;Common Flameback;Dinopium javanense;C;RB
+239;Rufous Woodpecker;Micropternus brachyurus;U;RB
+240;Buff-rumped Woodpecker;Meiglyptes tristis;R;NBV
+ 241;Great Slaty Woodpecker ;Mulleripicus pulverulentus;R;NBV
+Family Falconidae;;;;
+242;Black-thighed Falconet ##;Microhierax fringillarius;R;R(B)
+243;Lesser Kestrel;Falco naumanni;R;ACC
+244;Common Kestrel;Falco tinnunculus;U;WV
+245;Amur Falcon;Falco amurensis;R;ACC
+246;Eurasian Hobby;Falco subbuteo;R;ACC
+247;Oriental Hobby;Falco severus;R;ACC
+248;Peregrine Falcon;Falco peregrinus;U;WV
+Family Cacatuidae;;;;
+249;Tanimbar Corella *;Cacatua goffiniana;C;IRB
+250;Yellow-crested Cockatoo **;Cacatua sulphurea;U;IRB
+Family Psittacidae;;;;
+251;Blue-rumped Parrot ##*;Psittinus cyanurus;U;R(B)
+252;Rose-ringed Parakeet;Psittacula krameri;U;IRB
+253;Red-breasted Parakeet;Psittacula alexandri;C;IRB
+254;Long-tailed Parakeet *;Psittacula longicauda;C;RB
+255;Coconut Lorikeet;Trichoglossus haematodus;U;IRB
+256;Blue-crowned Hanging Parrot ##;Loriculus galgulus;U;RB
+Family Eurylaimidae;;;;
+257;Black-and-red Broadbill;Cymbirhynchus macrorhynchos;R;NBV
+Family Pittidae;;;;
+258;Hooded Pitta;Pitta sordida;U;WV PM MB
+259;Blue-winged Pitta;Pitta moluccensis;U;WV PM
+260;Mangrove Pitta ##*;Pitta megarhyncha;R;RB
+Family Acanthizidae;;;;
+261;Golden-bellied Gerygone;Gerygone sulphurea;C;RB
+Family Vangidae;;;;
+262;Black-winged Flycatcher-shrike;Hemipus hirundinaceus;R;NBV
+Family Aegithinidae;;;;
+263;Common Iora;Aegithina tiphia;C;RB
+Family Campephagidae;;;;
+ 264;Lesser Cuckooshrike ##;Coracina fimbriata ;R;R(B)
+ 265;Pied Triller;Lalage nigra;C;RB
+ 266;Ashy Minivet;Pericrocotus divaricatus;C;WV PM
+ 267;Scarlet Minivet;Pericrocotus speciosus;R;R(B)
+Family Pachycephalidae;;;;
+ 268;Mangrove Whistler #;Pachycephala cinerea;R;RB
+Family Laniidae;;;;
+269;Tiger Shrike;Lanius tigrinus;C;WV PM
+ 270;Brown Shrike;Lanius cristatus;C;WV PM
+ 271;Long-tailed Shrike;Lanius schach;U;RB
+Family Oriolidae;;;;
+272;Black-naped Oriole;Oriolus chinensis;C;RB
+Family Dicruridae;;;;
+ 273;Black Drongo;Dicrurus macrocercus;U;WV PM
+ 274;Ashy Drongo;Dicrurus leucophaeus;R;WV
+ 275;Crow-billed Drongo;Dicrurus annectans;U;WV PM
+ 276;Greater Racket-tailed Drongo;Dicrurus paradiseus;C;RB
+Family Rhipiduridae;;;;
+ 277;Malaysian Pied Fantail;Rhipidura javanica;C;RB
+Family Monarchidae;;;;
+ 278;Black-naped Monarch ##;Hypothymis azurea;R;R(B)
+ 279;Indian Paradise Flycatcher ;Terpsiphone paradisi;R;ACC
+ 280;Blyth's Paradise Flycatcher;Terpsiphone affinis;U;PM WV
+ 281;Amur Paradise Flycatcher;Terpsiphone incei ;C;PM WV
+282;Japanese Paradise Flycatcher *;Terpsiphone atrocaudata;R;PM
+Family Corvidae;;;;
+ 283;House Crow;Corvus splendens;C;IRB
+ 284;Large-billed Crow;Corvus macrorhynchos;U;RB
+Family Pycnonotidae;;;;
+ 285;Straw-headed Bulbul ##**;Pycnonotus zeylanicus;U;RB
+ 286;Black-and-white Bulbul *;Pycnonotus melanoleucos;R;NBV
+ 287;Black-headed Bulbul ##;Pycnonotus atriceps;R;RB
+ 288;Black-crested Bulbul;Pycnonotus flaviventris;U;IRB
+ 289;Red-whiskered Bulbul;Pycnonotus jocosus;U;IRB
+ 290;Sooty-headed Bulbul;Pycnonotus aurigaster;U;IRB
+ 291;Yellow-vented Bulbul;Pycnonotus goiavier;A;RB
+ 292;Olive-winged Bulbul;Pycnonotus plumosus;C;RB
+ 293;Cream-vented Bulbul #;Pycnonotus simplex;U;RB
+ 294;Asian Red-eyed Bulbul ##;Pycnonotus brunneus;U;RB
+ 295;Buff-vented Bulbul ##*;Iole olivacea;R;R(B)
+ 296;Streaked Bulbul *;Ixos malaccensis;R;NBV
+ 297;Cinereous Bulbul;Hemixos cinereus;U;NBV
+Family Hirundinidae;;;;
+ 298;Sand Martin;Riparia riparia;U;WV PM
+ 299;Barn Swallow;Hirundo rustica;A;WV PM
+ 300;Pacific Swallow;Hirundo tahitica;C;RB
+ 301;Asian House Martin;Delichon dasypus;R;PM
+ 302;Red-rumped Swallow;Cecropis daurica;U;PM WV
+Family Phylloscopidae;;;;
+303;Dusky Warbler;Phylloscopus fuscatus;R;PM
+304;Yellow-browed Warbler;Phylloscopus inornatus;R;PM WV
+ 305;Arctic Warbler;Phylloscopus borealis;C;WV PM
+ 306;Sakhalin Leaf Warbler;Phylloscopus borealoides;R;ACC
+ 307;Eastern Crowned Warbler;Phylloscopus coronatus;U;WV
+Family Acrocephalidae;;;;
+ 308;Oriental Reed Warbler;Acrocephalus orientalis;C;WV
+ 309;Black-browed Reed Warbler;Acrocephalus bistrigiceps;U;WV
+ 310;Booted Warbler;Iduna caligata;R;ACC
+Family Locustellidae;;;;
+ 311;Lanceolated Warbler;Locustella lanceolata;U;WV PM
+ 312;Pallas's Grasshopper Warbler;Locustella certhiola;U;WV PM
+Family Cisticolidae;;;;
+ 313;Zitting Cisticola;Cisticola juncidis;C;RB
+ 314;Yellow-bellied Prinia;Prinia flaviventris;C;RB
+ 315;Common Tailorbird;Orthotomus sutorius;C;RB
+ 316;Dark-necked Tailorbird;Orthotomus atrogularis;C;RB
+ 317;Rufous-tailed Tailorbird;Orthotomus sericeus;U;RB
+ 318;Ashy Tailorbird;Orthotomus ruficeps;C;RB
+Family Timaliidae;;;;
+ 319;Chestnut-winged Babbler ##;Stachyris erythroptera;U;RB
+ 320;Pin-striped Tit-Babbler;Macronous gularis;C;RB
+Family Pellorneidae;;;;
+ 321;Abbott's Babbler;Malacocincla abbotti;U;RB
+ 322;Short-tailed Babbler *;Malcocincla malaccensis;C;RB
+ 323;Moustached Babbler ##;Malacopteron magnirostre;R;RB
+ 324;White-chested Babbler ##*;Trichastoma rostratum;R;RB
+Family Leiothrichidae;;;;
+ 325;Chinese Hwamei;Garrulax canorus;R;IRB
+ 326;White-crested Laughingthrush;Garrulax leucolophus;C;IRB
+Family Zosteropidae;;;;
+ 327;Oriental White-eye;Zosterops palpebrosus;C;I? RB
+Family Irenidae;;;;
+ 328;Asian Fairy-bluebird #;Irena puella;U;RB
+Family Sturnidae;;;;
+ 329;Asian Glossy Starling;Aplonis panayensis;C;RB
+ 330;Common Hill Myna #;Gracula religiosa;U ;RB
+ 331;Crested Myna;Acridotheres cristatellus;R;IRB
+ 332;Javan Myna **;Acridotheres javanicus;A;IRB
+ 333;Common Myna;Acridotheres tristis;C;RB
+ 334;Black-winged Starling **;Acridotheres melanopterus;R;IRB
+ 335;Red-billed Starling;Spodiopsar sericeus ;R;PM
+ 336;Daurian Starling ;Agropsar sturninus;C;WV PM
+337;Chestnut-cheeked Starling;Agropsar philippensis;R;ACC
+ 338;White-shouldered Starling;Sturnia sinensis;U;WV PM
+ 339;Rosy Starling ;Pastor roseus;R;ACC
+Family Turdidae;;;;
+ 340;Orange-headed Thrush ;Geokichla citrina;U;WV
+ 341;Siberian Thrush ;Geokichla sibirica;R;PM
+ 342;Eyebrowed Thrush ;Turdus obscurus;U;PM
+Family Muscicapidae;;;;
+343;Oriental Magpie-Robin ##;Copsychus saularis;U;RB
+344;White-rumped Shama ##;Copsychus malabaricus;U;RB
+345;Grey-streaked Flycatcher ;Muscicapa griseisticta;R;ACC
+346;Dark-sided Flycatcher;Muscicapa sibirica;U;WV PM
+347;Asian Brown Flycatcher;Muscicapa latirostris;C;WV PM
+348;Brown-streaked Flycatcher ;Muscicapa williamsoni;R;WV
+349;Ferruginous Flycatcher ;Muscicapa ferruginea;U;WV PM
+350;Chinese Blue Flycatcher ;Cyornis glaucicomans;R;ACC
+351;Mangrove Blue Flycatcher ##;Cyornis rufigastra;R;RB
+352;Brown-chested Jungle Flycatcher ## ;Cyornis brunneatus;U;WV PM
+353;Blue-and-white Flycatcher ;Cyanoptila cyanomelana;R;PM
+354;Zappey's Flycatcher * ;Cyanoptila cumatilis;R;PM
+ 355;Verditer Flycatcher ;Eumyias thalassinus;R;NBV
+356;Siberian Blue Robin;Larvivora cyane;C;PM WV
+357;Yellow-rumped Flycatcher ;Ficedula zanthopygia;U;PM
+ 358;Narcissus Flycatcher ;Ficedula narcissina;R;ACC
+ 359;Green-backed Flycatcher ;Ficedula elisae;R;WV PM
+ 360;Mugimaki Flycatcher ;Ficedula mugimaki;U;PM
+ 361;Blue Rock Thrush ;Monticola solitarius;R;PM
+362;White-throated Rock Thrush;Monticola gularis;R;WV PM
+ 363;Stejneger’s Stonechat ;Saxicola stejnegeri;R;WV PM
+Family Chloropseidae ;;;;
+ 364;Greater Green Leafbird ## ;Chloropsis sonnerati;U;R(B)
+ 365;Lesser Green Leafbird ##* ;Chloropsis cyanopogon;U;R(B) 
+ 366;Blue-winged Leafbird # ;Chloropsis cochinchinensis;C;R(B)
+Family Dicaeidae ;;;;
+ 367;Scarlet-breasted Flowerpecker * ;Prionochilus thoracicus;R;NBV
+ 368;Thick-billed Flowerpecker;Dicaeum agile;R;NBV 
+ 369;Yellow-vented Flowerpecker ## ;Dicaeum chrysorrheum;R;R(B)
+ 370;Orange-bellied Flowerpecker ;Dicaeum trigonostigma;C;RB
+ 371;Scarlet-backed Flowerpecker ;Dicaeum cruentatum;C;RB
+Family Nectariniidae ;;;;
+ 372;Ruby-cheeked Sunbird ;Chalcoparia singalensis;R ;NBV
+373;Plain Sunbird ##;Anthreptes simplex;R;R(B)
+ 374;Brown-throated Sunbird ;Anthreptes malacensis;C;RB
+ 375;Van Hasselt's Sunbird ;Leptocoma brasiliana;C;RB
+ 376;Copper-throated Sunbird # ;Leptocoma calcostetha;U;RB
+ 377;Olive-backed Sunbird;Cinnyris jugularis;C;RB
+ 378;Crimson Sunbird;Aethopyga siparaja;C;RB
+ 379;Little Spiderhunter ;Arachnothera longirostra;U;RB
+ 380;Thick-billed Spiderhunter ##;Arachnothera crassirostris;R;R(B)
+ 381;Yellow-eared Spiderhunter ## ;Arachnothera chrysogenys;R;R(B)
+Family Passeridae ;;;;
+ 382;House Sparrow;Passer domesticus;R;IRB
+ 383;Eurasian Tree Sparrow;Passer montanus;C;RB (I)?
+Family Ploceidae ;;;;
+ 384;Streaked Weaver;Ploceus manyar;R;RB (I)?
+ 385;Baya Weaver ;Ploceus philippinus;U;RB
+Family Estrildidae ;;;;
+ 386;Red Avadavat;Amandava amandava;U;IRB
+ 387;White-rumped Munia ##;Lonchura striata;R;RB
+ 388;Javan Munia;Lonchura leucogastroides;U;IRB
+ 389;Scaly-breasted Munia;Lonchura punctulata;C;RB
+ 390;White-capped Munia;Lonchura ferruginosa;R;IRB
+ 391;Chestnut Munia ;Lonchura atricapilla;U;RB
+ 392;White-headed Munia ;Lonchura maja;U;RB
+ 393;Java Sparrow ** ;Lonchura oryzivora;R;IRB
+Family Motacillidae ;;;;
+ 394;Forest Wagtail;Dendronanthus indicus;U;WV PM
+ 395;Eastern Yellow Wagtail ;Motacilla tschutschensis;C;WV
+ 396;Citrine Wagtail;Motacilla citreola;R;WV
+ 397;Grey Wagtail;Motacilla cinerea;U ;WV PM
+ 398;White Wagtail;Motacilla alba;U;WV
+ 399;Richard's Pipit ;Anthus richardi;R;ACC
+ 400;Paddyfield Pipit;Anthus rufulus;C;RB
+ 401;Olive-backed Pipit;Anthus hodgsoni;R ;ACC
+ 402;Red-throated Pipit ;Anthus cervinus;U;WV
+Family Emberizidae ;;;;
+ 403;Yellow-breasted Bunting **;Emberiza aureola;R;WV
